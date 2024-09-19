@@ -1,0 +1,9 @@
+chromadb
+python-dotenv
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-core
+langchain-groq
+datasets
+streamlit
