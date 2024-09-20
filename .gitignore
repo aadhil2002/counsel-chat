@@ -1,5 +1,4 @@
-# Ignore vectorstore directory
-vectorstore/
+
 
 # Ignore environment configuration file
 .env
